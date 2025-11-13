@@ -1,0 +1,14 @@
+/Users/mauriciobernardo/Documents/SimuladorSO/SimuladorSO/bin/Debug/net8.0/SimuladorSO
+/Users/mauriciobernardo/Documents/SimuladorSO/SimuladorSO/bin/Debug/net8.0/SimuladorSO.deps.json
+/Users/mauriciobernardo/Documents/SimuladorSO/SimuladorSO/bin/Debug/net8.0/SimuladorSO.runtimeconfig.json
+/Users/mauriciobernardo/Documents/SimuladorSO/SimuladorSO/bin/Debug/net8.0/SimuladorSO.dll
+/Users/mauriciobernardo/Documents/SimuladorSO/SimuladorSO/bin/Debug/net8.0/SimuladorSO.pdb
+/Users/mauriciobernardo/Documents/SimuladorSO/SimuladorSO/obj/Debug/net8.0/SimuladorSO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mauriciobernardo/Documents/SimuladorSO/SimuladorSO/obj/Debug/net8.0/SimuladorSO.AssemblyInfoInputs.cache
+/Users/mauriciobernardo/Documents/SimuladorSO/SimuladorSO/obj/Debug/net8.0/SimuladorSO.AssemblyInfo.cs
+/Users/mauriciobernardo/Documents/SimuladorSO/SimuladorSO/obj/Debug/net8.0/SimuladorSO.csproj.CoreCompileInputs.cache
+/Users/mauriciobernardo/Documents/SimuladorSO/SimuladorSO/obj/Debug/net8.0/SimuladorSO.dll
+/Users/mauriciobernardo/Documents/SimuladorSO/SimuladorSO/obj/Debug/net8.0/refint/SimuladorSO.dll
+/Users/mauriciobernardo/Documents/SimuladorSO/SimuladorSO/obj/Debug/net8.0/SimuladorSO.pdb
+/Users/mauriciobernardo/Documents/SimuladorSO/SimuladorSO/obj/Debug/net8.0/SimuladorSO.genruntimeconfig.cache
+/Users/mauriciobernardo/Documents/SimuladorSO/SimuladorSO/obj/Debug/net8.0/ref/SimuladorSO.dll
