@@ -1,5 +1,12 @@
 # Simulador SO (Sistema Operacional)
 
+# Aluno
+```
+Mauricio Siqueira Cavalcante Bernardo
+```
+# Professor 
+[@Amaury](https://github.com/amaurynogueira)
+
 Projeto feito em c# para simular um sistema operacional para cadeira de Sistemas Operacionais
 
 # O que é necessário parar conseguir rodar o projeto
