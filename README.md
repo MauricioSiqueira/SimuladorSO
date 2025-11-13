@@ -1,14 +1,13 @@
 # Simulador SO (Sistema Operacional)
 
-Projeto feito em c# para simular um sistema operacional para cadeira de Sistemas Operacionais 
+Projeto feito em c# para simular um sistema operacional para cadeira de Sistemas Operacionais
 
 # O que é necessário parar conseguir rodar o projeto
 
 [ ] Ter o SDK do c# instalado na máquina
 [ ] Ter o c# devkit instalado no vscode ( caso esteja rodando no vscode, em outras IDEs como rider e VsCommunity não é necessário)
 
-
-Exemplo de output no terminal 
+Exemplo de output no terminal
 
 ```
 SO> create chrome
