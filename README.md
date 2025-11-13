@@ -5,8 +5,9 @@
 Mauricio Siqueira Cavalcante Bernardo
 ```
 # Professor 
-[@Amaury](https://github.com/amaurynogueira)
+Matéria lecionada por : [@Amaury Nogueira](https://github.com/amaurynogueira)
 
+# Escopo
 Projeto feito em c# para simular um sistema operacional para cadeira de Sistemas Operacionais
 
 # O que é necessário parar conseguir rodar o projeto
